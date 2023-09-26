@@ -1,0 +1,278 @@
+{
+  "agriculture": "Agriculture",
+  "downloadReport": "Download Report",
+  "aboutFarm": "About the Farm",
+  "graphImportance": "Importance of the Chart",
+  "placeholderText": "Lorem ipsum dolor sit amet, consecteturee",
+  "ppt":"Download report",
+  "farm": {
+        "title": "About the Farm",
+        "description": "Established in 1990, our farm has consistently delivered high-quality products for over three decades. With sustainable farming methods, we guarantee the best for both nature and our consumers.",
+        "chartImportanceTitle": "Importance of the Chart",
+        "chartImportanceDescription": "The chart above displays our farm's production over the last year. This visual representation allows stakeholders to quickly understand production trends and make informed decisions."
+    },
+    "chart": {
+        "cost": "Cost",
+        "product": "Product:"
+    },
+      "Proyectoe": "Project",
+      "ID": "ID",
+    "AGRICULTORA": "Farmer",
+    "PRODUCTORA": "Producer",
+    "CARACTERÍSTICAS": "Characteristics",
+    "ÁREA": "Area",
+    "CREADO EN": "Created On",
+    "UBICACIÓN": "Location",
+     "OTP_Verified": "OTP Verified",
+    "hectarea": "hectare",
+    "KYC_COMPLETED": "KYC Completed",
+    "Asociacion": "Association",
+      "Product_Line": "Product Line",
+    "Product_Group": "Product Group",
+    "Product_Name": "Product Name",
+    "Product_Reference": "Product Reference",
+    "Available_From_Date": "Available From Date",
+    "Available_To_Date": "Available To Date",
+    "Purpose": "Purpose",
+    "Cancel": "CANCEL",
+    "Save": "SAVE",
+    "Association_Lines": "Association Lines",
+      "Add_Association": "ADD ASSOCIATION",
+      "Add_Association_Line_Title": "Add Association Line",
+    "Association_Line_Name_Label": "Association Line Name:",
+    "Association_Line_Name_Placeholder": "Association Line Name",
+    "Association_Line_Reference_Label": "Association Line Reference:",
+    "Association_Line_Reference_Placeholder": "Association Line Reference",
+     "Add_Button_Label": "Add",
+     "Association_Line_Label": "Asociacion Line",
+    "Association_Reference_Label": "Asociacin Reference",
+    "Title_Label": "Title",
+   
+   
+    "Prime_Saving_Placeholder": "Prime Saving",
+    
+    "Update_Button_Text": "Update",
+     "Confirmation_Message": "Are you sure want to disable this Asociación Line?",
+    "Yes_Button_Text": "Yes",
+    "No_Button_Text": "No",
+    
+       "Primary Saving":"Primary Saving",
+    "Salary Saving":"Salary Saving",
+    "Standard Saving":"Standard Saving",
+    "Advanced Checking":"Advanced Checking",
+    "Preferred Checking":"Preferred Checking",
+     "menuItems": {
+        "Hogar": "Home",
+        "análisis": "Analysis",
+        "Proyectos": "Projects",
+        "Fincas": "Farms",
+        "Certificación": "Certification",
+        "Asociación": "Association",
+        "Asociación Líneas": "Association Lines",
+        "Asociación Grupo": "Association Group",
+        "Asociación Características": "Association Features",
+        "Configuration Setting": "Configuration Setting"
+    },
+     "texts": {
+        "Farmer": "Farmer",
+          "Fincas": "Farms",
+        "count": "count",
+        "Proyectos": "Projects",
+        "completados": "completed",
+         "Certificación": "Certification",
+           "Total_Certificación": "Total Certification",
+        "Total_Proyectos": "Total Projects",
+        "Total_Count": "Total Count",
+        "Total_Fincas": "Total Farms",
+        "Completados": "Completed",
+        "Certificación_Completados": "Certification Completed"
+
+    },
+     "Configuration Settings":"Configuration Settings",
+    "Countries Available":"Countries Available",
+    "Chat Bot Status":"Chat Bot Status",
+    "Application Status":"Application Status",
+    "Application Lifetime":"Application Lifetime",
+     "id2": "Farms",
+    "id3": "Certification",
+    "id5": "Projects",
+   
+    "Configuration Settings":"Configuration Settings",
+    "Countries Available":"Countries Available",
+    "Chat Bot Status":"Chat Bot Status",
+    "Application Status":"Application Status",
+    "Application Lifetime":"Application Lifetime",
+
+    "Association Features:":"Association Features:",
+    "Feature Name":"Feature Name",
+    "Feature Group":"Feature Group",
+    "Title":"Title",
+    "Primary Saving":"Primary Saving",
+    "Salary Saving":"Salary Saving",
+    "Standard Saving":"Standard Saving",
+    "Advanced Checking":"Advanced Checking",
+    "Preferred Checking":"Preferred Checking",
+    "Are you sure want to disable this Asociación Line?":"Are you sure want to disable this Asociación Line?",
+    "Yes":"Yes",
+    "No":"No",
+    "Update Line:":"Update Line:",
+    "Association Line Name:":"Association Line Name:",
+    "Association Line Reference:":"Association Line Reference:",
+    "Update":"Update",
+    "primarySaving": "Primary Saving",
+    "salarySaving": "Salary Saving",
+    "standardSaving": "Standard Saving",
+    "advancedChecking": "Advanced Checking",
+    "preferredChecking": "Preferred Checking",
+    "ADD ASOCIACION":"ADD ASOCIACION ",
+    "Association Group:":"Association Group:",
+    "Association group Refrence":"Association group Refrence",
+    "Association Line:":"Association Line:",
+    "Prime Saving":"Prime Saving",
+    "Add Association Line:":"Add Association Line:",
+    "Add":"Add",
+
+    "menuItems": {
+        "Hogar": "Home",
+        "análisis": "Analysis",
+        "Proyectos": "Projects",
+        "Fincas": "Farms",
+        "Certificación": "Certification",
+        "Asociación": "Association",
+        "Asociación Líneas": "Association Lines",
+        "Asociación Grupo": "Association Group",
+        "Asociación Características": "Association Features",
+        "Configuration Setting": "Configuration Setting"
+    },
+
+    "Association Group Name:":"Association Group Name:",
+    "Association Group Refrence:":"Association Group Refrence:",
+    "Description:":"Description:",
+
+    "Asociacion": "Association",
+    "Product_Line": "Product Line",
+  "Product_Group": "Product Group",
+  "Product_Name": "Product Name",
+  "Product_Reference": "Product Reference",
+  "Available_From_Date": "Available From Date",
+  "Available_To_Date": "Available To Date",
+  "Purpose": "Purpose",
+  "Cancel": "CANCEL",
+  "Save": "SAVE",
+
+
+  "Proyectoe": "Projects",
+  "ID": "ID",
+"AGRICULTORA": "FARMER",
+"PRODUCTORA": "PRODUCER",
+"CERTIFICATIONS": "CERTIFICATIONS",
+"ÁREA": "AREA",
+"CREADO EN": "CREATED AT",
+"UBICACIÓN": "LOCATION",
+ "OTP_Verified": "OTP Verified",
+"hectarea": "hectare",
+"KYC_COMPLETED": "KYC Completed",
+"Download Report":"Download Report",
+"Certification":"Certification",
+"Fincas":"Farms",
+
+"xAxisTitle": "Product",
+"yAxisTitle": "Cost",
+"xAxisCategories": ["Sun", "Mon", "Tue", "Wen", "Thu", "Fri", "Sat"],
+
+"Application Details:":"Application Details:",
+"Application ID":"Application ID",
+"Application Country":"Application Country",
+"Goal Selected":"Goal Selected",
+"Solution Type":"Solution Type",
+"Application start Date":"Application start Date",
+"Assigned to":"Assigned to",
+"Primary Applicant":"Primary Applicant",
+"Solution Selected":"Solution Selected",
+"Application Status":"Application Status",
+"No. of Applicant":"No. of Applicant",
+"Secondary Applicant":"Secondary Applicant",
+"Application Risk Rating":"Application Risk Rating",
+"Notes":"Notes",
+"Signing Instruction":"Signing Instruction",
+"Primary Applicant":"Primary Applicant",
+"Joint Holder-1":"Joint Holder-1",
+"Joint Holder-2":"Joint Holder-2",
+"Joint Holder-3":"Joint Holder-3",
+"Primary Applicant Information:":"Primary Applicant Information:",
+"Personal Details:":"Personal Details:",
+"Full Name:":"Full Name:",
+"DOB:":"DOB:",
+"Marital Status:":"Marital Status:",
+"Gender:":"Gender:",
+"Phone No:":"Phone No:",
+"Country:":"Country:",
+"Picture:":"Picture:",
+"Residential Details:":"Residential Details:",
+"Address:":"Address:",
+"Zip Code:":"Zip Code:",
+"City:":"City:",
+"State:":"State:",
+"Signature:":"Signature:",
+"Risk Rationate:":"Risk Rationate:",
+"Timeline Checks":"Timeline Checks:",
+"OTP Verified":"OTP Verified",
+"KYC Completed":"KYC Completed",
+"KYC detailed verified by User":"KYC detailed verified by User",
+"Johana introduced":"Johana introduced",
+"Alias Added":"Alias Added",
+"Email Collected":"Email Collected",
+"Mothers maiden name collected":"Mothers maiden name collected",
+"Marital Status Collected":"Marital Status Collected",
+"ADD DOCUMENT":"ADD DOCUMENT",
+"File Name:":"File Name:",
+"Document Name:":"Document Name:",
+"Document No:":"Document No:",
+"Document Image:":"Document Image:",
+"Reference no.":"Reference no.",
+"Issuer Country:":"Issuer Country:",
+"Renewal Date:":"Renewal Date:",
+"VIEW DOCUMENT":"VIEW DOCUMENT",
+"Document Name":"Document Name",
+"Document Referance":"Document Referance",
+"Feature Type:":"Feature Type:",
+"Description":"Description",
+ "farmer": {
+    "title": "Farmer",
+    "description": "Description: Information about farmer",
+    "location": "Location: Lat {lat}, Lng {lng}",
+    "specialty": "Specialty: Grains and Vegetables",
+    "experience": "Years of Experience: {years} years",
+    "viewProfile": "View Profile"
+  },
+  "associationFeature": "Association Feature",
+   "associationGroup": "Association Group",
+    "addGroup": "Add Group",
+      "addFeature": "Add Feature",
+      "projectTitle": "Projects"
+
+
+
+
+
+
+
+
+
+
+
+   
+
+    
+    
+
+
+    
+
+    
+    
+  
+    
+  
+}
+
